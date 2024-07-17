@@ -1,5 +1,5 @@
 {
-    "name": "rapid/framework",
+    "name": "rapid-fy/framework",
     "type": "project",
     "license": "MIT",
     "autoload": {
